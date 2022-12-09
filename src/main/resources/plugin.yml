@@ -1,0 +1,4 @@
+main: dev.cibmc.spigot.blankplugin.App
+name: BlankPlugin
+version: '0.1'
+api: '1.19.3'
