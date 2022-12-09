@@ -1,4 +1,4 @@
-main: dev.cibmc.spigot.blankplugin.App
+main: org.thundernetwork.thunderverso.app
 name: BlankPlugin
 version: '0.1'
 api: '1.19.3'
